@@ -1,0 +1,40 @@
+h2
+{
+  text-align: center;
+}
+.card
+{
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  font-family: Arial;
+}
+
+.title
+{
+  color: grey;
+  font-size: 18px;
+}
+
+.p1
+{
+  color: black;
+  font-size: 15px;
+}
+
+.p2
+{
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background: black;
+  text-align: center;
+  width: 95%;
+  font-size: 18px;
+  margin-top: auto;
+  display: block;
+}
