@@ -1,4 +1,4 @@
-# Welcome to Profile Page
+# Welcome to User Card
 
 ## Technologies Used
 - HTML & CSS
